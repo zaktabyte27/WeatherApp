@@ -1,0 +1,33 @@
+*{
+    padding: 15px;
+    margin: 0;
+}
+
+body{
+    background-image: url("images/background.jpg");
+    background-size:cover;
+    font-family: "poppins", sans-serif;
+    color: white;
+}
+
+.infoBox{
+    font-size: 2em;
+}
+
+#search{
+    border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    top:250px;
+}
